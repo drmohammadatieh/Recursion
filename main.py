@@ -91,7 +91,7 @@ def move_disks(x,source,destination,intermediate):
     show_pegs(disks_no,peg_one,peg_two,peg_three)
     move_disks(x -1, intermediate,destination,source)
 
-move_disks(4,peg_one,peg_two,peg_three)
+move_disks(3,peg_one,peg_two,peg_three)
 print("")
 print (f"{moves_counter} moves were done")
 

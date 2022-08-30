@@ -12,6 +12,12 @@ Read the explanation, study the code and then create your own version using Pyth
    
 2. What limits the number of iterations? What is the implication for application and system security?
 
+
+## Code output
+
+The output after running the code for 3 disks is the following:
+
+<img src="output.jpg" width="300">
 ## Answers
 
 ### Q1
